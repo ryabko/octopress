@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Программирование | blog.kalcho.ru]]></title>
   <link href="http://ryabko.github.io/octopress/blog/categories/proghrammirovaniie/atom.xml" rel="self"/>
   <link href="http://ryabko.github.io/octopress/"/>
-  <updated>2013-04-19T00:37:15+04:00</updated>
+  <updated>2013-04-19T00:39:26+04:00</updated>
   <id>http://ryabko.github.io/octopress/</id>
   <author>
     <name><![CDATA[Ryabko]]></name>
@@ -18,7 +18,10 @@
     <link href="http://ryabko.github.io/octopress/blog/2011/05/01/malien%27kiie-triuki-s-posliedovatiel%27nostiami-oracle/"/>
     <updated>2011-05-01T00:03:00+04:00</updated>
     <id>http://ryabko.github.io/octopress/blog/2011/05/01/malien'kiie-triuki-s-posliedovatiel'nostiami-oracle</id>
-    <content type="html"><![CDATA[<p>Привет, привет, привет!</p>
+    <content type="html"><![CDATA[<p>Это небольшая история о том, как задача, обещавшая быть нудной и монотонной,
+после небольших размышлений превратилась в увлекательное занятие.
+Конечно, увлекательным его найдет только тот, кому процесс программирования не менее важен,
+чем результат, и тот, для кого чем процесс непривычнее и нестандартнее, тем лучше.</p>
 
 <!-- more -->
 

@@ -4,7 +4,7 @@
   <title><![CDATA[blog.kalcho.ru]]></title>
   <link href="http://ryabko.github.io/octopress/atom.xml" rel="self"/>
   <link href="http://ryabko.github.io/octopress/"/>
-  <updated>2013-04-19T00:37:15+04:00</updated>
+  <updated>2013-04-19T00:39:26+04:00</updated>
   <id>http://ryabko.github.io/octopress/</id>
   <author>
     <name><![CDATA[Ryabko]]></name>
@@ -18,7 +18,11 @@
     <link href="http://ryabko.github.io/octopress/blog/2012/08/30/moskva-avgust-2012/"/>
     <updated>2012-08-30T00:35:00+04:00</updated>
     <id>http://ryabko.github.io/octopress/blog/2012/08/30/moskva-avgust-2012</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Московские коридоры, стадион «Локомотив», водные прогулки, Арбат, место сходки китайгородских геев —
+все это на фотках с традиционной ежегодной осенней поездки в Москву, которая, правда, на этот раз прошла в августе.</p>
+
+<!-- more -->
+
 ]]></content>
   </entry>
   
@@ -27,7 +31,16 @@
     <link href="http://ryabko.github.io/octopress/blog/2011/09/08/samolietiki-nad-ghorodom/"/>
     <updated>2011-09-08T00:34:00+04:00</updated>
     <id>http://ryabko.github.io/octopress/blog/2011/09/08/samolietiki-nad-ghorodom</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>В пятницу днем, находясь на работе, сквозь наушники услышал мощный шум, похожий на раскаты хорошего грома.
+Повернул голову к окну – вроде ясная погода – продолжил работу.</p>
+
+<p>Спустя какое-то время выхожу на обед – у крыльца выстроились коллеги, которые, оказывается,
+смотрят на пролетающие по улице самолеты. Они-то мне и рассказали, что самолеты прилетели из Липецка
+и что они репетируют перед субботним выступлением в честь Дня города в Воронеже.
+Ума не приложу, откуда они все знают, но все действительно так и оказалось.</p>
+
+<!-- more -->
+
 ]]></content>
   </entry>
   
@@ -36,7 +49,10 @@
     <link href="http://ryabko.github.io/octopress/blog/2011/05/01/malien%27kiie-triuki-s-posliedovatiel%27nostiami-oracle/"/>
     <updated>2011-05-01T00:03:00+04:00</updated>
     <id>http://ryabko.github.io/octopress/blog/2011/05/01/malien&#8217;kiie-triuki-s-posliedovatiel&#8217;nostiami-oracle</id>
-    <content type="html"><![CDATA[<p>Привет, привет, привет!</p>
+    <content type="html"><![CDATA[<p>Это небольшая история о том, как задача, обещавшая быть нудной и монотонной,
+после небольших размышлений превратилась в увлекательное занятие.
+Конечно, увлекательным его найдет только тот, кому процесс программирования не менее важен,
+чем результат, и тот, для кого чем процесс непривычнее и нестандартнее, тем лучше.</p>
 
 <!-- more -->
 
