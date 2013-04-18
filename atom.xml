@@ -4,7 +4,7 @@
   <title><![CDATA[blog.kalcho.ru]]></title>
   <link href="http://ryabko.github.io/octopress/atom.xml" rel="self"/>
   <link href="http://ryabko.github.io/octopress/"/>
-  <updated>2013-04-19T00:30:43+04:00</updated>
+  <updated>2013-04-19T00:37:15+04:00</updated>
   <id>http://ryabko.github.io/octopress/</id>
   <author>
     <name><![CDATA[Ryabko]]></name>
@@ -14,10 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Москва, август 2012]]></title>
+    <link href="http://ryabko.github.io/octopress/blog/2012/08/30/moskva-avgust-2012/"/>
+    <updated>2012-08-30T00:35:00+04:00</updated>
+    <id>http://ryabko.github.io/octopress/blog/2012/08/30/moskva-avgust-2012</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Самолетики над городом]]></title>
+    <link href="http://ryabko.github.io/octopress/blog/2011/09/08/samolietiki-nad-ghorodom/"/>
+    <updated>2011-09-08T00:34:00+04:00</updated>
+    <id>http://ryabko.github.io/octopress/blog/2011/09/08/samolietiki-nad-ghorodom</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Маленькие трюки с последовательностями Oracle]]></title>
-    <link href="http://ryabko.github.io/octopress/blog/2013/04/19/malien%27kiie-triuki-s-posliedovatiel%27nostiami-oracle/"/>
-    <updated>2013-04-19T00:03:00+04:00</updated>
-    <id>http://ryabko.github.io/octopress/blog/2013/04/19/malien&#8217;kiie-triuki-s-posliedovatiel&#8217;nostiami-oracle</id>
+    <link href="http://ryabko.github.io/octopress/blog/2011/05/01/malien%27kiie-triuki-s-posliedovatiel%27nostiami-oracle/"/>
+    <updated>2011-05-01T00:03:00+04:00</updated>
+    <id>http://ryabko.github.io/octopress/blog/2011/05/01/malien&#8217;kiie-triuki-s-posliedovatiel&#8217;nostiami-oracle</id>
     <content type="html"><![CDATA[<p>Привет, привет, привет!</p>
 
 <!-- more -->

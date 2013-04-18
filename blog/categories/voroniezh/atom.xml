@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Воронеж | blog.kalcho.ru]]></title>
+  <link href="http://ryabko.github.io/octopress/blog/categories/voroniezh/atom.xml" rel="self"/>
+  <link href="http://ryabko.github.io/octopress/"/>
+  <updated>2013-04-19T00:37:15+04:00</updated>
+  <id>http://ryabko.github.io/octopress/</id>
+  <author>
+    <name><![CDATA[Ryabko]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Самолетики над городом]]></title>
+    <link href="http://ryabko.github.io/octopress/blog/2011/09/08/samolietiki-nad-ghorodom/"/>
+    <updated>2011-09-08T00:34:00+04:00</updated>
+    <id>http://ryabko.github.io/octopress/blog/2011/09/08/samolietiki-nad-ghorodom</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
